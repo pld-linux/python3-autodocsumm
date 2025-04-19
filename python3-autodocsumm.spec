@@ -1,13 +1,13 @@
 Summary:	Extended Sphinx autodoc including automatic autosummaries
 Summary(pl.UTF-8):	Rozszerzone autodoc dla Sphinksa wraz z automatycznymi podsumowaniami
 Name:		python3-autodocsumm
-Version:	0.2.12
-Release:	3
+Version:	0.2.14
+Release:	1
 License:	GPL v2+
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/autodocsumm/
 Source0:	https://files.pythonhosted.org/packages/source/a/autodocsumm/autodocsumm-%{version}.tar.gz
-# Source0-md5:	c6e84a11db27f1d82374ea4b278a3089
+# Source0-md5:	10ac01d944bf1a66684813e9fc869e83
 URL:		https://pypi.org/project/autodocsumm/
 BuildRequires:	python3-modules >= 1:3.7
 BuildRequires:	python3-setuptools
